@@ -10,3 +10,5 @@ python -m splits.MSR-VTT
  CUDA_VISIBLE_DEVICES=2  python train.py -c configs.stage2
 4.测试
  CUDA_VISIBLE_DEVICES=2  python run.py
+ 
+少了pycocoevalcap文件夹、data文件夹、checkpoints文件夹
