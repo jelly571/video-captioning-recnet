@@ -74,7 +74,7 @@ You can change some hyperparameters by modifying `configs/train_stage1.py` and `
   | RecNet (global) | 51.1 | 79.7 | 34.0 | 69.4 | - |
   | RecNet (local) | **52.3** | **80.3** | **34.1** | **69.8** | - |
   |  |  |  |  |  |  |
-  | (Ours) RecNet (global) |46.5 |	55.0 | |67.7 |	69.7 |
+  | (Ours) RecNet (global) |46.5 |	55.0 | |67.7 |	|
   | (Ours) RecNet (local) |   |  |	 |	  | |
 
 
