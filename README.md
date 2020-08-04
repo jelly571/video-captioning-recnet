@@ -27,4 +27,5 @@ https://github.com/xiadingZ/video-caption.pytorch/tree/master/coco-caption
 
 
 # References
-https://github.com/hobincar/RecNet
+This code is from https://github.com/hobincar/RecNet.
+Make some comments and error changes to the code.
