@@ -1,5 +1,7 @@
-
-
+# Missing files
+./data/MSVD/features/MSVD_InceptionV4.hdf5
+./data/MSVD/metadata/MSR Video Description Corpus.csv
+./pycocoevalcap
 # Performances
 
 * MSVD
