@@ -29,3 +29,4 @@ https://github.com/xiadingZ/video-caption.pytorch/tree/master/coco-caption
 # References
 This code is from https://github.com/hobincar/RecNet.
 Make some comments and error changes to the code.
+Wang, Bairui, et al. "Reconstruction Network for Video Captioning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
