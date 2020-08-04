@@ -1,6 +1,8 @@
 # Missing files
+https://drive.google.com/file/d/18aZ8AdFeJ8h2wPR3YMnZNHnw7ebtfGih/view
 ./data/MSVD/features/MSVD_InceptionV4.hdf5
 ./data/MSVD/metadata/MSR Video Description Corpus.csv
+https://github.com/xiadingZ/video-caption.pytorch/tree/master/coco-caption
 ./pycocoevalcap
 # Performances
 
