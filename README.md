@@ -2,8 +2,6 @@
 
 # Performances
 
-\* *NOTE: As you can see, the performance of RecNet does not outperform SA-LSTM. Better hyperparameters should be found out.*
-
 * MSVD
 
   | Model | BLEU4 | CIDEr | METEOR | ROUGE_L | pretrained |
